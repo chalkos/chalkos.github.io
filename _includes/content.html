@@ -12,13 +12,12 @@
 
 <hr />
 
+
 <ul class="fa-ul main-list">
+  {% for item in site.social %}
   <li class="main-list-item">
-    <span class="fa fa-github fa-lg main-list-item-icon"></span>
-    <a href="https://github.com/excentris/compass">GitHub Repository</a>
+    <span class="fa fa-{{item.icon}} fa-lg main-list-item-icon"></span>
+    <a href="{{item.url}}">{{item.text}}</a>
   </li>
-  <li class="main-list-item">
-    <span class="fa fa-user fa-lg main-list-item-icon"></span>
-    <a href="http://excentris.net">The Author</a>
-  </li>
+  {% endfor %}
 </ul>

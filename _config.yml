@@ -18,6 +18,12 @@ compass:
   # Tracking Code to that file.
   include_analytics: false
 
+social:
+  - {icon: github, url: 'https://github.com/excentris/compass', text: GitHub Repository}
+  - {icon: user, url: 'http://excentris.net', text: The Author}
+
+
+
 # Dependencies
 markdown: kramdown
 highlighter: pygments
