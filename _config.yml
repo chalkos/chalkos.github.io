@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Bruno Ferreira"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  tagline: "Postgraduate in Informatics Engineering at Minho University and Programmer Analyst at Keep Solutions"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
@@ -19,8 +19,11 @@ compass:
   include_analytics: false
 
 social:
-  - {icon: github, url: 'https://github.com/excentris/compass', text: GitHub Repository}
-  - {icon: user, url: 'http://excentris.net', text: The Author}
+  - {icon: github, url: 'https://github.com/chalkos', text: GitHub}
+  - {icon: linkedin-square, url: 'https://pt.linkedin.com/in/chalkos', text: LinkedIn}
+  - {icon: stack-overflow, url: 'http://stackoverflow.com/users/1483200/chalkos', text: Stack Overflow}
+  - {icon: envelope, url: 'mailto:chalkos@chalkos.net', text: Contact}
+
 
 
 
