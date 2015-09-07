@@ -5,6 +5,6 @@
 
 <div style="text-align:center">
   {% for item in site.social %}
-    <a href="{{item.url}}"><i class="fa fa-{{item.icon}} fa-2x fa-fw main-list-item-icon"></i></a>
+    <a href="{{item[1].link}}"><i class="fa fa-{{item[1].icon}} fa-2x fa-fw main-list-item-icon"></i></a>
   {% endfor %}
 </div>

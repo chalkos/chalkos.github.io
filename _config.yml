@@ -19,12 +19,10 @@ compass:
   include_analytics: true
 
 social:
-  - {icon: github, url: 'https://github.com/chalkos', text: GitHub}
-  - {icon: linkedin-square, url: 'https://pt.linkedin.com/in/chalkos', text: LinkedIn}
-  - {icon: stack-overflow, url: 'http://stackoverflow.com/users/1483200/chalkos', text: Stack Overflow}
-  - {icon: envelope, url: 'mailto:chalkos@chalkos.net', text: Contact}
-
-
+  github: {icon: github, link: 'link/github/', url: 'https://github.com/chalkos'}
+  linkedin: {icon: linkedin-square, link: 'link/linkedin/', url: 'https://pt.linkedin.com/in/chalkos'}
+  stackoverflow: {icon: stack-overflow, link: 'link/stackoverflow/', url: 'http://stackoverflow.com/users/1483200/chalkos'}
+  contact: {icon: envelope, link: 'mailto:chalkos@chalkos.net'}
 
 
 # Dependencies
