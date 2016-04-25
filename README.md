@@ -1,3 +1,3 @@
-# (not yet) My Personal Website
+# My Personal Website
 
-Soon, soon...
+Well, here it is :)
