@@ -1,1 +1,1 @@
-Front page of chalkos.net
+Front page of https://chalkos.net
