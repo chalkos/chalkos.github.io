@@ -1,3 +1,1 @@
-# My Personal Website
-
-Well, here it is :)
+Front page of chalkos.net
